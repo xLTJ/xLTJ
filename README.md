@@ -11,7 +11,7 @@
 </a>
 </br>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xltj&theme=rose_pine&hide_border=false&size_weight=0.5&count_weight=0.5&layout=compact&card_width=900"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xltj&theme=rose_pine&hide_border=false&size_weight=0.5&count_weight=0.5&layout=compact&card_width=780"/>
 </a>
 
 ---
