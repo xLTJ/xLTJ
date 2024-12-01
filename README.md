@@ -18,4 +18,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=xltj&icon=0&color=6)](https://visitcount.itsvg.in)
+<div align="left">
+<img src="https://visitcount.itsvg.in/api?id=xltj&icon=0&color=6)](https://visitcount.itsvg.in"/>
+</div>
