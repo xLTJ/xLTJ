@@ -20,7 +20,7 @@
   </a>
   </br>
   <a href="">
-    <img align="center" src="https://github-readme-stats-beta-lemon.vercel.app/api/top-langs/?username=xltj&theme=rose_pine&hide_border=fals&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&card_width=780&hide=TeX,makefile,jupyter+notebook,cmake,shaderlab,scss,html,hlsl"/>
+    <img align="center" src="https://github-readme-stats-beta-lemon.vercel.app/api/top-langs/?username=xltj&theme=rose_pine&hide_border=fals&langs_count=6&size_weight=0.5&count_weight=0.5&layout=compact&card_width=780&hide=TeX,makefile,jupyter+notebook,cmake,shaderlab,scss,html,hlsl,css,dockerfile"/>
   </a
 </div>
 
