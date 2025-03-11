@@ -1,0 +1,13 @@
+name: Purge Camo
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: action-camo-purge
+        uses: kevincobain2000/action-camo-purge@v1
